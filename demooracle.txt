@@ -1,0 +1,1 @@
+insert into emp values(100,'jalaja',20000,10);
